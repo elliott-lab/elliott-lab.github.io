@@ -5,6 +5,6 @@
 
   # elliott-lab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[elliott-lab.github.io/elliott-lab-website](https://elliott-lab.github.io/elliott-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
