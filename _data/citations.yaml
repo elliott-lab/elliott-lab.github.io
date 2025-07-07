@@ -1,174 +1,839 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s43587-025-00897-z
+  title: DunedinPACNI estimates the longitudinal Pace of Aging from a single brain
+    image to track health and disease
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Ethan T. Whitman
+  - Maxwell L. Elliott
+  - Annchen R. Knodt
+  - Wickliffe C. Abraham
+  - Tim J. Anderson
+  - Nicholas J. Cutfield
+  - Sean Hogan
+  - David Ireland
+  - Tracy R. Melzer
+  - Sandhya Ramrakha
+  - Karen Sugden
+  - Reremoana Theodore
+  - Benjamin S. Williams
+  - Avshalom Caspi
+  - Terrie E. Moffitt
+  - Ahmad R. Hariri
+  publisher: Nature Aging
+  date: '2025-07-01'
+  link: https://doi.org/g9rwr5
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1101/2025.02.21.25322553
+  title: Precision Estimates of Longitudinal Brain Aging Capture Unexpected Individual
+    Differences in One Year
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Maxwell L. Elliott
+  - Jingnan Du
+  - Jared A. Nielsen
+  - Lindsay C. Hanford
+  - "Pia Kivis\xE4kk"
+  - Steven E. Arnold
+  - Bradford C. Dickerson
+  - Ross W. Mair
+  - Mark C. Eldaief
+  - Randy L. Buckner
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2025-02-25'
+  link: https://doi.org/g9sjx8
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1101/2025.02.25.640090
+  title: Within-Individual Precision Mapping of Brain Networks Exclusively Using Task
+    Data
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Jingnan Du
+  - Maxwell L. Elliott
+  - Joanna Ladopoulou
+  - Mark C. Eldaief
+  - Randy L. Buckner
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2025-02-25'
+  link: https://doi.org/g9sjx9
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1101/2023.12.23.23300492
+  title: Precision Brain Morphometry Using Cluster Scanning
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Maxwell L. Elliott
+  - Jared A. Nielsen
+  - Lindsay C. Hanford
+  - Aya Hamadeh
+  - Tom Hilbert
+  - Tobias Kober
+  - Bradford C. Dickerson
+  - Bradley T. Hyman
+  - Ross W. Mair
+  - Mark C. Eldaief
+  - Randy L. Buckner
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2023-12-28'
+  link: https://doi.org/g9sjzb
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.neuroimage.2023.120173
+  title: Brain morphometry in older adults with and without dementia using extremely
+    rapid structural scans
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Maxwell L. Elliott
+  - Lindsay C. Hanford
+  - Aya Hamadeh
+  - Tom Hilbert
+  - Tobias Kober
+  - Bradford C. Dickerson
+  - Ross W. Mair
+  - Mark C. Eldaief
+  - Randy L. Buckner
+  publisher: NeuroImage
+  date: '2023-08-01'
+  link: https://doi.org/g9sjzd
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/CERCOR/BHAD109
+  title: Functional topography of the neocortex predicts covariation in complex cognitive
+    and basic motor abilities
+  authors:
+  - Ethan T Whitman
+  - Annchen R Knodt
+  - Maxwell L Elliott
+  - Wickliffe C Abraham
+  - Kirsten Cheyne
+  - Sean Hogan
+  - David Ireland
+  - Ross Keenan
+  - Joan H Leung
+  - Tracy R Melzer
+  - Richie Poulton
+  - Suzanne C Purdy
+  - Sandhya Ramrakha
+  - Peter R Thorne
+  - Avshalom Caspi
+  - Terrie E Moffitt
+  - Ahmad R Hariri
+  publisher: Cerebral Cortex
+  date: '2023-04-04'
+  link: https://doi.org/g9sjzf
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1212/WNL.0000000000200898
+  title: Association of Pace of Aging Measured by Blood-Based DNA Methylation With
+    Age-Related Cognitive Impairment and Dementia
+  authors:
+  - Karen Sugden
+  - Avshalom Caspi
+  - Maxwell L. Elliott
+  - Kyle J. Bourassa
+  - Kartik Chamarti
+  - David L. Corcoran
+  - Ahmad R. Hariri
+  - Renate M. Houts
+  - Meeraj Kothari
+  - Stephen Kritchevsky
+  - George A. Kuchel
+  - Jonathan S. Mill
+  - Benjamin S. Williams
+  - Daniel W. Belsky
+  - Terrie E. Moffitt
+  publisher: Neurology
+  date: '2022-09-27'
+  link: https://doi.org/gqgmd4
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/braincomms/fcac223
+  title: "Improving risk indexes for Alzheimer\u2019s disease and related dementias\
+    \ for use in midlife"
+  authors:
+  - Aaron Reuben
+  - Terrie E Moffitt
+  - Wickliffe C Abraham
+  - Antony Ambler
+  - Maxwell L Elliott
+  - Ahmad R Hariri
+  - Honalee Harrington
+  - Sean Hogan
+  - Renate M Houts
+  - David Ireland
+  - Annchen R Knodt
+  - Joan Leung
+  - Amber Pearson
+  - Richie Poulton
+  - Suzanne C Purdy
+  - Sandhya Ramrakha
+  - Line J H Rasmussen
+  - Karen Sugden
+  - Peter R Thorne
+  - Benjamin Williams
+  - Graham Wilson
+  - Avshalom Caspi
+  publisher: Brain Communications
+  date: '2022-09-01'
+  link: https://doi.org/g9sjzg
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41380-019-0626-7
+  title: Brain-age in midlife is associated with accelerated biological aging and
+    cognitive decline in a longitudinal birth cohort
+  authors:
+  - Maxwell L. Elliott
+  - Daniel W. Belsky
+  - Annchen R. Knodt
+  - David Ireland
+  - Tracy R. Melzer
+  - Richie Poulton
+  - Sandhya Ramrakha
+  - Avshalom Caspi
+  - Terrie E. Moffitt
+  - Ahmad R. Hariri
+  publisher: Molecular Psychiatry
+  date: '2019-12-10'
+  link: https://doi.org/gkq7fd
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biopsych.2021.02.971
+  title: Long-term Neural Embedding of Childhood Adversity in a Population-Representative
+    Birth Cohort Followed for 5 Decades
+  authors:
+  - Maria Z. Gehred
+  - Annchen R. Knodt
+  - Antony Ambler
+  - Kyle J. Bourassa
+  - Andrea Danese
+  - Maxwell L. Elliott
+  - Sean Hogan
+  - David Ireland
+  - Richie Poulton
+  - Sandhya Ramrakha
+  - Aaron Reuben
+  - Maria L. Sison
+  - Terrie E. Moffitt
+  - Ahmad R. Hariri
+  - Avshalom Caspi
+  publisher: Biological Psychiatry
+  date: '2021-08-01'
+  link: https://doi.org/gjf7zx
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/0956797621996665
+  title: 'Need for Psychometric Theory in Neuroscience Research and Training: Reply
+    to Kragel et al. (2021)'
+  authors:
+  - Maxwell L. Elliott
+  - Annchen R. Knodt
+  - Avshalom Caspi
+  - Terrie E. Moffitt
+  - Ahmad R. Hariri
+  publisher: Psychological Science
+  date: '2021-03-08'
+  link: https://doi.org/gjgq2k
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.03.09.21252473
+  title: Disparities in the pace of biological aging among midlife adults of the same
+    chronological age have implications for future frailty risk and policy
+  authors:
+  - Maxwell L. Elliott
+  - Avshalom Caspi
+  - Renate M. Houts
+  - Antony Ambler
+  - Jonathan M. Broadbent
+  - Robert J. Hancox
+  - HonaLee Harrington
+  - Sean Hogan
+  - Ross Keenan
+  - Annchen Knodt
+  - Joan H. Leung
+  - Tracy R. Melzer
+  - Suzanne C. Purdy
+  - Sandhya Ramrakha
+  - Leah S. Richmond-Rakerd
+  - Antoinette Righarts
+  - Karen Sugden
+  - W. Murray Thomson
+  - Peter R. Thorne
+  - Benjamin S. Williams
+  - Graham Wilson
+  - Ahmad R. Hariri
+  - Richie Poulton
+  - Terrie E. Moffitt
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-03-12'
+  link: https://doi.org/g9sjzh
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2010211118
+  title: Childhood self-control forecasts the pace of midlife aging and preparedness
+    for old age
+  authors:
+  - Leah S. Richmond-Rakerd
+  - Avshalom Caspi
+  - Antony Ambler
+  - "Tracy d\u2019Arbeloff"
+  - Marieke de Bruine
+  - Maxwell Elliott
+  - HonaLee Harrington
+  - Sean Hogan
+  - Renate M. Houts
+  - David Ireland
+  - Ross Keenan
+  - Annchen R. Knodt
+  - Tracy R. Melzer
+  - Sena Park
+  - Richie Poulton
+  - Sandhya Ramrakha
+  - Line Jee Hartmann Rasmussen
+  - Elizabeth Sack
+  - Adam T. Schmidt
+  - Maria L. Sison
+  - Jasmin Wertz
+  - Ahmad R. Hariri
+  - Terrie E. Moffitt
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2021-01-04'
+  link: https://doi.org/gh6p2z
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gerona/glaa178
+  title: Association Between Elevated suPAR, a New Biomarker of Inflammation, and
+    Accelerated Aging
+  authors:
+  - Line Jee Hartmann Rasmussen
+  - Avshalom Caspi
+  - Antony Ambler
+  - Andrea Danese
+  - Maxwell Elliott
+  - Jesper Eugen-Olsen
+  - Ahmad R Hariri
+  - HonaLee Harrington
+  - Renate Houts
+  - Richie Poulton
+  - Sandhya Ramrakha
+  - Karen Sugden
+  - Benjamin Williams
+  - Terrie E Moffitt
+  publisher: 'The Journals of Gerontology: Series A'
+  date: '2020-07-16'
+  link: https://doi.org/gmh2zn
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FNAGI.2021.652575
+  title: Midlife Cardiovascular Fitness Is Reflected in the Brain's White Matter
+  authors:
+  - Tracy d'Arbeloff
+  - Maxwell L. Elliott
+  - Annchen R. Knodt
+  - Maria Sison
+  - Tracy R. Melzer
+  - David Ireland
+  - Sandhya Ramrakha
+  - Richie Poulton
+  - Avshalom Caspi
+  - Terrie E. Moffitt
+  - Ahmad R. Hariri
+  publisher: Frontiers in Aging Neuroscience
+  date: '2021-04-06'
+  link: https://doi.org/g9sjzj
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.TICS.2021.05.008
+  title: 'Striving toward translation: strategies for reliable fMRI measurement'
+  authors:
+  - Maxwell L. Elliott
+  - Annchen R. Knodt
+  - Ahmad R. Hariri
+  publisher: Trends in Cognitive Sciences
+  date: '2021-09-01'
+  link: https://doi.org/gk52wr
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.10.14.338863
+  title: A Connectome-wide Functional Signature of Trait Anger
+  authors:
+  - M. Justin Kim
+  - Maxwell L. Elliott
+  - Annchen R. Knodt
+  - Ahmad R. Hariri
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-10-15'
+  link: https://doi.org/g9sjzk
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/0956797620916786
+  title: What Is the Test-Retest Reliability of Common Task-Functional MRI Measures?
+    New Empirical Evidence and a Meta-Analysis
+  authors:
+  - Maxwell L. Elliott
+  - Annchen R. Knodt
+  - David Ireland
+  - Meriwether L. Morris
+  - Richie Poulton
+  - Sandhya Ramrakha
+  - Maria L. Sison
+  - Terrie E. Moffitt
+  - Avshalom Caspi
+  - Ahmad R. Hariri
+  publisher: Psychological Science
+  date: '2020-06-03'
+  link: https://doi.org/gg2jdx
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1001/JAMA.2020.19998
+  title: Association of Childhood Lead Exposure With MRI Measurements of Structural
+    Brain Integrity in Midlife
+  authors:
+  - Aaron Reuben
+  - Maxwell L. Elliott
+  - Wickliffe C. Abraham
+  - Jonathan Broadbent
+  - Renate M. Houts
+  - David Ireland
+  - Annchen R. Knodt
+  - Richie Poulton
+  - Sandhya Ramrakha
+  - Ahmad R. Hariri
+  - Avshalom Caspi
+  - Terrie E. Moffitt
+  publisher: JAMA
+  date: '2020-11-17'
+  link: https://doi.org/gkgmj9
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41591-019-0731-9
+  title: "Implications of legacy lead for children\u2019s brain development"
+  authors:
+  - Aaron Reuben
+  - Maxwell Elliott
+  - Avshalom Caspi
+  publisher: Nature Medicine
+  date: '2020-01-01'
+  link: https://doi.org/gm57sn
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1001/JAMANETWORKOPEN.2020.3221
+  title: Longitudinal Assessment of Mental Health Disorders and Comorbidities Across
+    4 Decades Among Participants in the Dunedin Birth Cohort Study
+  authors:
+  - Avshalom Caspi
+  - Renate M. Houts
+  - Antony Ambler
+  - Andrea Danese
+  - Maxwell L. Elliott
+  - Ahmad Hariri
+  - HonaLee Harrington
+  - Sean Hogan
+  - Richie Poulton
+  - Sandhya Ramrakha
+  - Line J. Hartmann Rasmussen
+  - Aaron Reuben
+  - Leah Richmond-Rakerd
+  - Karen Sugden
+  - Jasmin Wertz
+  - Benjamin S. Williams
+  - Terrie E. Moffitt
+  publisher: JAMA Network Open
+  date: '2020-04-21'
+  link: https://doi.org/ggsrcz
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.ARR.2020.101075
+  title: 'MRI-based biomarkers of accelerated aging and dementia risk in midlife:
+    how close are we?'
+  authors:
+  - Maxwell L. Elliott
+  publisher: Ageing Research Reviews
+  date: '2020-08-01'
+  link: https://doi.org/g9sjzm
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/brain/awz323
+  title: Williams syndrome hemideletion and LIMK1 variation both affect dorsal stream
+    functional connectivity
+  authors:
+  - Michael D Gregory
+  - Carolyn B Mervis
+  - Maxwell L Elliott
+  - J Shane Kippenhan
+  - Tiffany Nash
+  - Jasmin B. Czarapata
+  - Ranjani Prabhakaran
+  - Katherine Roe
+  - Daniel P Eisenberg
+  - Philip D Kohn
+  - Karen F Berman
+  publisher: Brain
+  date: '2019-10-05'
+  link: https://doi.org/ghczwg
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/788232
+  title: Pervasively thinner neocortex as a transdiagnostic feature of general psychopathology
+  authors:
+  - Adrienne L. Romer
+  - Maxwell L. Elliott
+  - Annchen R. Knodt
+  - Maria L. Sison
+  - David Ireland
+  - Renate Houts
+  - Sandhya Ramrakha
+  - Richie Poulton
+  - Ross Keenan
+  - Tracy R. Melzer
+  - Terrie E. Moffitt
+  - Avshalom Caspi
+  - Ahmad R. Hariri
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-09-30'
+  link: https://doi.org/gk2v69
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/d936f
+  title: Functional connectivity predicts the dispositional use of expressive suppression
+    but not cognitive reappraisal
+  authors:
+  - Daisy A. Burr
+  - Tracy d'Arbeloff
+  - Maxwell Elliott
+  - Annchen R. Knodt
+  - Bartholomew D. Brigidi
+  - Ahmad R. Hariri
+  publisher: Center for Open Science
+  date: '2019-09-25'
+  link: https://doi.org/g9sjzn
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/hbm.24639
+  title: "A genome\u2010wide association study\u2010derived polygenic score for interleukin\u2010\
+    1\u03B2 is associated with hippocampal volume in two samples"
+  authors:
+  - Reut Avinun
+  - Adam Nevo
+  - Annchen R. Knodt
+  - Maxwell L. Elliott
+  - Ahmad R. Hariri
+  publisher: Human Brain Mapping
+  date: '2019-05-22'
+  link: https://doi.org/g9sjzp
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/712851
+  title: Brain-age in midlife is associated with accelerated biological aging and
+    cognitive decline in a longitudinal birth-cohort
+  authors:
+  - Maxwell L. Elliott
+  - Daniel W. Belsky
+  - Annchen R. Knodt
+  - David Ireland
+  - Tracy R. Melzer
+  - Richie Poulton
+  - Sandhya Ramrakha
+  - Avshalom Caspi
+  - Terrie E. Moffitt
+  - Ahmad R. Hariri
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-07-26'
+  link: https://doi.org/c9ng
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/681700
+  title: What is the test-retest reliability of common task-fMRI measures? New empirical
+    evidence and a meta-analysis
+  authors:
+  - Maxwell L. Elliott
+  - Annchen R. Knodt
+  - David Ireland
+  - Meriwether L. Morris
+  - Richie Poulton
+  - Sandhya Ramrakha
+  - Maria L. Sison
+  - Terrie E. Moffitt
+  - Avshalom Caspi
+  - Ahmad R. Hariri
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-06-24'
+  link: https://doi.org/gf4bpr
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/braincomms/fcz041
+  title: White matter hyperintensities are common in midlife and already associated
+    with cognitive decline
+  authors:
+  - "Tracy d\u2019Arbeloff"
+  - Maxwell L Elliott
+  - Annchen R Knodt
+  - Tracy R Melzer
+  - Ross Keenan
+  - David Ireland
+  - Sandhya Ramrakha
+  - Richie Poulton
+  - Tim Anderson
+  - Avshalom Caspi
+  - Terrie E Moffitt
+  - Ahmad R Hariri
+  publisher: Brain Communications
+  date: '2019-01-01'
+  link: https://doi.org/gt2j9s
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1001/JAMANETWORKOPEN.2019.13123
+  title: Association of Neurocognitive and Physical Function With Gait Speed in Midlife
+  authors:
+  - Line Jee Hartmann Rasmussen
+  - Avshalom Caspi
+  - Antony Ambler
+  - Jonathan M. Broadbent
+  - Harvey J. Cohen
+  - "Tracy d\u2019Arbeloff"
+  - Maxwell Elliott
+  - Robert J. Hancox
+  - HonaLee Harrington
+  - Sean Hogan
+  - Renate Houts
+  - David Ireland
+  - Annchen R. Knodt
+  - Kim Meredith-Jones
+  - Miriam C. Morey
+  - Lynda Morrison
+  - Richie Poulton
+  - Sandhya Ramrakha
+  - Leah Richmond-Rakerd
+  - Maria L. Sison
+  - Kate Sneddon
+  - W. Murray Thomson
+  - Ahmad R. Hariri
+  - Terrie E. Moffitt
+  publisher: JAMA Network Open
+  date: '2019-10-11'
+  link: https://doi.org/gf9sp3
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/AB.21820
+  title: Microstructural integrity of white matter moderates an association between
+    childhood adversity and adult trait anger
+  authors:
+  - M. Justin Kim
+  - Maxwell L. Elliott
+  - Tracy C. d'Arbeloff
+  - Annchen R. Knodt
+  - Spenser R. Radtke
+  - Bartholomew D. Brigidi
+  - Ahmad R. Hariri
+  publisher: Aggressive Behavior
+  date: '2019-01-30'
+  link: https://doi.org/ghqxg3
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/330530
+  title: 'General Functional Connectivity: shared features of resting-state and task
+    fMRI drive reliable and heritable individual differences in functional brain networks'
+  authors:
+  - Maxwell L. Elliott
+  - Annchen R. Knodt
+  - Megan Cooke
+  - M. Justin Kim
+  - Tracy R. Melzer
+  - Ross Keenan
+  - David Ireland
+  - Sandhya Ramrakha
+  - Richie Poulton
+  - Avshalom Caspi
+  - Terrie E. Moffitt
+  - Ahmad R. Hariri
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-05-25'
+  link: https://doi.org/gkvbph
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/287490
+  title: A Polygenic Score for Higher Educational Attainment is Associated with Larger
+    Brains
+  authors:
+  - Maxwell L. Elliott
+  - Daniel W Belsky
+  - Kevin Anderson
+  - David L. Corcoran
+  - Tian Ge
+  - Annchen Knodt
+  - Joseph A. Prinz
+  - Karen Sugden
+  - Benjamin Williams
+  - David Ireland
+  - Richie Poulton
+  - Avshalom Caspi
+  - Avram Holmes
+  - Terrie Moffitt
+  - Ahmad R Hariri
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-03-23'
+  link: https://doi.org/gkv6wq
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BIOPSYCH.2018.03.012
+  title: A Connectome-wide Functional Signature of Transdiagnostic Risk for Mental
+    Illness
+  authors:
+  - Maxwell L. Elliott
+  - Adrienne Romer
+  - Annchen R. Knodt
+  - Ahmad R. Hariri
+  publisher: Biological Psychiatry
+  date: '2018-09-01'
+  link: https://doi.org/gd6vxg
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BIOPSYCH.2017.11.010
+  title: 'Replication in Imaging Genetics: The Case of Threat-Related Amygdala Reactivity'
+  authors:
+  - Reut Avinun
+  - Adam Nevo
+  - Annchen R. Knodt
+  - Maxwell L. Elliott
+  - Ahmad R. Hariri
+  publisher: Biological Psychiatry
+  date: '2018-07-01'
+  link: https://doi.org/gdvw6t
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/JNEUROSCI.1734-17.2017
+  title: Reward-Related Ventral Striatum Activity Buffers against the Experience of
+    Depressive Symptoms Associated with Sleep Disturbances
+  authors:
+  - Reut Avinun
+  - Adam Nevo
+  - Annchen R. Knodt
+  - Maxwell L. Elliott
+  - Spenser R. Radtke
+  - Bartholomew D. Brigidi
+  - Ahmad R. Hariri
+  publisher: The Journal of Neuroscience
+  date: '2017-09-18'
+  link: https://doi.org/gb4zrf
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/196220
+  title: A Connectome Wide Functional Signature of Transdiagnostic Risk for Mental
+    Illness
+  authors:
+  - Maxwell L. Elliott
+  - Adrienne Romer
+  - Annchen R. Knodt
+  - Ahmad R. Hariri
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-09-29'
+  link: https://doi.org/gkvtf2
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000432440803031
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000432440803031
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000440365600390
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000440365600390
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S10162-015-0534-8
+  title: Stimulus Frequency Otoacoustic Emissions Provide No Evidence for the Role
+    of Efferents in the Enhancement Effect
+  authors:
+  - Jordan A. Beim
+  - Maxwell Elliott
+  - Andrew J. Oxenham
+  - Magdalena Wojtczak
+  publisher: Journal of the Association for Research in Otolaryngology
+  date: '2015-07-08'
+  link: https://doi.org/f7r2h9
+  orcid: 0000-0003-1083-6277
+  maxwell-elliott: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +849,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +865,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
